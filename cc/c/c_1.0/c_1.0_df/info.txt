@@ -1,0 +1,3 @@
+Ana Klasör: c
+Ýkinci Seviye Klasör: 1.0
+Üçüncü Seviye Klasör: df

@@ -1,0 +1,3 @@
+Ana Klasör: b
+Ýkinci Seviye Klasör: 0.0
+Üçüncü Seviye Klasör: d
